@@ -475,7 +475,8 @@
   overflow: hidden;
   max-width: 850px;
   margin: 0 auto;
-  margin-top: 20%;
+  margin-top: 48px;
+  /* FIXED: Changed from margin-top: 20% to 48px for consistent spacing across all tabs/viewports */
 }
 
 .ojt-accent {
