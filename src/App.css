@@ -575,9 +575,9 @@
 .contact-row {
   display: flex;
   flex-wrap: wrap;
-  gap: -100px;
+  gap: 0px;
   justify-content: center;
-  margin-top: -100px;
+  margin-top: 0px;
 }
 
 .contact-pill {
