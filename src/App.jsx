@@ -261,7 +261,6 @@ export default function App() {
           <div className="ojt-accent" />
           <div className="ojt-content">
             <div className="ojt-header">
-              <div className="ojt-logo">🌿</div>
               <div>
                 <h3 className="ojt-company">Department of Environment and Natural Resources</h3>
                 <p className="ojt-role">IT / Technical Support Intern</p>

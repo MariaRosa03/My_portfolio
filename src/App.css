@@ -498,12 +498,6 @@
   justify-content: center;
 }
 
-.ojt-logo {
-  font-size: 36px;
-  line-height: 1;
-  flex-shrink: 0;
-}
-
 .ojt-company {
   font-family: var(--display);
   font-size: 18px;
