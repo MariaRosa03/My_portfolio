@@ -289,8 +289,7 @@ export default function App() {
         <h2 className="section-title">Get in Touch</h2>
         <p className="section-sub">Open to internships, collaborations, and new opportunities</p>
         <div className="contact-row">
-          <a href="mailto:bolamaryrose093@gmail.com?subject=Let's%20Connect!&body=Hi%20Mary%20Rose,%0A%0AI'd%20like%20to%20get%20in%20touch%20with%20you.
-          " className="contact-pill">
+          <a href="mailto:bolamaryrose093@gmail.com?subject=Let's%20Connect!&body=Hi%20Mary%20Rose,%0A%0AI'd%20like%20to%20get%20in%20touch%20with%20you." className="contact-pill">
             <span>📧</span> bolamaryrose093@gmail.com
           </a>
           <a href="https://www.linkedin.com/in/maryrose-bola/" className="contact-pill">
