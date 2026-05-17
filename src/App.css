@@ -473,8 +473,9 @@
   box-shadow: 0 4px 24px rgba(0,0,0,.06);
   display: flex;
   overflow: hidden;
-  max-width: 830px;
+  max-width: 850px;
   margin: 0 auto;
+  margin-top: 20%;
 }
 
 .ojt-accent {
@@ -491,9 +492,8 @@
 .ojt-header {
   display: flex;
   gap: 20px;
-  align-items: flex-start;
+  align-items: center;
   margin-bottom: 28px;
-  text-align: center;
 }
 
 .ojt-logo {
