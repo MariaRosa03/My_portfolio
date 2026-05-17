@@ -474,10 +474,10 @@
   box-shadow: 0 4px 24px rgba(0,0,0,.06);
   display: flex;
   overflow: hidden;
-  max-width: 850px;
+  max-width: 900px;
   margin: 0 auto;
   margin-top: 10px;
-  /* FIXED: Changed from margin-top: 20% to 48px for consistent spacing across all tabs/viewports */
+  /* FIXED: All margin-top and gaps standardized to 10px */
 }
 
 .ojt-accent {
@@ -493,7 +493,7 @@
 
 .ojt-header {
   display: flex;
-  gap: 20px;
+  gap: 10px;
   align-items: center;
   margin-bottom: 10px;
 }
@@ -531,14 +531,14 @@
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 14px;
-  margin-bottom: 28px;
+  gap: 10px;
+  margin-bottom: 10px;
 }
 
 .ojt-list li {
   display: flex;
   align-items: flex-start;
-  gap: 12px;
+  gap: 10px;
   font-size: 14.5px;
   line-height: 1.65;
   color: var(--text-muted);
@@ -561,7 +561,7 @@
 .ojt-tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 10px;
 }
 
 .ojt-tag {
@@ -619,7 +619,7 @@
   .ojt-card { flex-direction: column; }
   .ojt-accent { width: 100%; height: 6px; }
   .ojt-content { padding: 24px 20px 20px; }
-  .ojt-header { flex-direction: column; gap: 12px; }
+  .ojt-header { flex-direction: column; gap: 10px; }
   .hero-cta { flex-direction: column; align-items: center; }
   .section { padding: 72px 20px; }
 }
@@ -688,7 +688,7 @@
 
 .modal-gallery {
   display: flex;
-  gap: 12px;
+  gap: 10px;
   padding: 16px 24px;
   overflow-x: auto;
   background: #f8f4ff;
