@@ -477,7 +477,6 @@
   max-width: 900px;
   margin: 0 auto;
   margin-top: 0px;
-  /* FIXED: All margin-top and gaps standardized to 10px */
 }
 
 .ojt-accent {
@@ -496,6 +495,7 @@
   gap: 10px;
   align-items: center;
   margin-bottom: 10px;
+  justify-content: center;
 }
 
 .ojt-logo {
@@ -511,6 +511,7 @@
   color: var(--text);
   margin-bottom: 4px;
   text-align: center;
+  width: 100%;
 }
 
 .ojt-role {
@@ -519,12 +520,14 @@
   font-weight: 600;
   margin-bottom: 4px;
   text-align: center;
+  width: 100%;
 }
 
 .ojt-period {
   font-size: 13px;
   color: var(--text-muted);
   text-align: center;
+  width: 100%;
 }
 
 .ojt-list {
