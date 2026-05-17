@@ -307,7 +307,7 @@
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 28px;
+  gap: 20px;
 }
 
 .project-card {
@@ -398,7 +398,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 20px;
-  margin-bottom: 48px;
+  margin-bottom: 20px;
 }
 
 .skill-item {
@@ -475,7 +475,7 @@
   overflow: hidden;
   max-width: 850px;
   margin: 0 auto;
-  margin-top: 48px;
+  margin-top: 20px;
   /* FIXED: Changed from margin-top: 20% to 48px for consistent spacing across all tabs/viewports */
 }
 
@@ -492,9 +492,9 @@
 
 .ojt-header {
   display: flex;
-  gap: 15px;
+  gap: 20px;
   align-items: center;
-  /* margin-bottom: 28px; */
+  margin-bottom: 10px;
 }
 
 .ojt-logo {
@@ -517,6 +517,7 @@
   color: var(--accent);
   font-weight: 600;
   margin-bottom: 4px;
+  text-align: center;
 }
 
 .ojt-period {
