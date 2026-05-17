@@ -351,25 +351,6 @@
   transform: scale(1.02);
 }
 
-.project-emoji {
-  font-size: 56px;
-  position: relative;
-  z-index: 1;
-  filter: drop-shadow(0 4px 12px rgba(0,0,0,.1));
-  animation: float 3.5s ease-in-out infinite;
-}
-
-.cover-blobs { position: absolute; inset: 0; }
-
-.blob {
-  position: absolute;
-  border-radius: 50%;
-  opacity: .5;
-}
-
-.b1 { width: 180px; height: 180px; top: -60px; left: -40px; filter: blur(40px); }
-.b2 { width: 140px; height: 140px; bottom: -50px; right: -30px; filter: blur(30px); }
-
 .project-body {
   padding: 24px;
 }
