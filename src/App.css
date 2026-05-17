@@ -307,8 +307,8 @@
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 10px;
-  margin-top: 10px;
+  gap: 0px;
+  margin-top: 0px;
 }
 
 .project-card {
@@ -398,8 +398,8 @@
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 10px;
-  margin-bottom: 10px;
+  gap: 0px;
+  margin-bottom: 0px;
 }
 
 .skill-item {
@@ -476,7 +476,7 @@
   overflow: hidden;
   max-width: 900px;
   margin: 0 auto;
-  margin-top: 10px;
+  margin-top: 0px;
   /* FIXED: All margin-top and gaps standardized to 10px */
 }
 
@@ -578,9 +578,9 @@
 .contact-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 0px;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 .contact-pill {
