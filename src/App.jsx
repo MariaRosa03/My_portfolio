@@ -63,6 +63,7 @@ const skills = [
   { name: 'Git & GitHub', level: 72, color: '#fac6e8' },
   { name: 'Network Basics', level: 65, color: '#c6f4f0' },
   { name: 'Tech Support', level: 88, color: '#f9dbc6' },
+  { name: 'Photoshop', level: 65, color: '#f5f0ab' },
 ]
 
 function useInView(threshold = 0.15) {
@@ -268,7 +269,7 @@ export default function App() {
               </div>
             </div>
             <ul className="ojt-list">
-              <li><span className="ojt-dot" />Provided day-to-day <strong>technical support</strong> to DENR staff — troubleshooting hardware, software, and connectivity issues.</li>
+              <li><span className="ojt-dot" />Provided day-to-day <strong>Technical Support</strong> to DENR staff — troubleshooting hardware, software, and connectivity issues.</li>
               <li><span className="ojt-dot" />Assisted in <strong>setting up and configuring</strong> desktops, printers, and network peripherals across departments.</li>
               <li><span className="ojt-dot" />Maintained an <strong>IT asset inventory</strong>, documenting equipment status and repair logs.</li>
               <li><span className="ojt-dot" />Supported the team in <strong>network troubleshooting</strong> and LAN/WAN connectivity checks.</li>
